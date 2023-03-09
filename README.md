@@ -55,7 +55,7 @@ node index.js
 
 - /ping - It helps you to get information about the speed of the bot
 
-- /play - Play a track
+- /play normal - Play a track
 
 - /playlist - Lets you manage playlist commands
 
