@@ -31,22 +31,55 @@ node index.js
 
 # Features & Commands
 
-- /help - Shows you a list of commands
+- /autoplay - Toggle the autoplay of the queue
 
-- /play
-  - song {url}       - plays the song from the youtube url
-  - search {keyword} - searches for the keyword on youtube and plays the first result
-  - playlist {url}   - plays the playlist from url
+- /back - Plays the previous track
 
-- /pause - Pause the music
+- /statistic - View your bot statistics
 
-- /skip - Skip the current song
+- /channel - It allows you to set the channel or channels where the bot can be used
 
-- /resume - Resume the music
+- /clear - Clears the music queue
 
-- /queue - Shows the queue
+- /dj - Allows you to set or reset the DJ role
 
-- /exit - Leave the voice channel
+- /filter - Adds audio filter to ongoing music
+
+- /help - It helps you to get information about bot and commands
+
+- /loop - Turns the music loop mode on or off
+
+- /nowplaying - Provides information about the music being played
+
+- /pause - Stops playing the currently playing music
+
+- /ping - It helps you to get information about the speed of the bot
+
+- /play - Play a track
+
+- /playlist - Lets you manage playlist commands
+
+- /queue - It shows you the playlist
+
+- /resume - Start paused music
+
+- /save - It sends and saves the played music to you via dm box
+
+- /search - Used for your music search
+
+- /seek - Set the position of the track
+
+- /servers - The server you want to get information about
+
+- /shuffle - Shuffle the song queue
+
+- /skip - Skips the music being played
+
+- /stop - Plays the previous music again
+
+- /time - Show what minute of the music you are playing
+
+- /volume - Allows you to adjust the music volume
 
 # Common errors
 
