@@ -28,7 +28,7 @@
     "start": "node index.js"
   },
   "author": "Inepsy",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "node": "20.x"
   }
