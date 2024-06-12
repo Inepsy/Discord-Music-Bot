@@ -1,0 +1,35 @@
+{
+  "name": "inepsybot",
+  "version": "15.1.0",
+  "description": "discord.js v14 music bot. for slash commands",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^2.3.0",
+    "@discordjs/voice": "^0.17.0",
+    "@distube/deezer": "^2.0.0",
+    "@distube/soundcloud": "^2.0.1",
+    "@distube/spotify": "^2.0.1",
+    "@distube/yt-dlp": "^2.0.1",
+    "@distube/ytdl-core": "^4.13.4",
+    "@top-gg/sdk": "^3.1.6",
+    "discord.js": "^14.15.3",
+    "distube": "^5.0.1",
+    "express": "^4.19.2",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13",
+    "mongoose": "^8.4.1",
+    "sapphire": "^0.0.3",
+    "topgg-autoposter": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Inepsy",
+  "license": "ISC",
+  "engines": {
+    "node": "20.x"
+  }
+}
